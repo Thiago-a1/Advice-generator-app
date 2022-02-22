@@ -31,12 +31,12 @@ Your users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.jpg)
+![](./Screenshot.png)
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Thiago-a1/Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://thiago-a1.github.io/Advice-generator-app/)
 
 ## My process
 
